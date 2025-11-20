@@ -12,9 +12,10 @@ FINANCIAL_EMOJIS = ["📈", "💰", "💱", "🪙"]
 
 apps_data = [
     # Category: THE WEATHER
-    {"naam": "❄️ Regional Weather Dashboard", "url": "https://regioweer.streamlit.app/", "beschrijving": "Current and historical temperature comparison in the Region.", "categorie": "The Weather"},
-    {"naam": "⚡ Graninge Weather Station", "url": "https://weerdata-analyse-app.streamlit.app/", "beschrijving": "The weather station in Graningen.", "categorie": "The Weather"},
+    {"naam": "☀️ Regional Weather Dashboard", "url": "https://regioweer.streamlit.app/", "beschrijving": "Current and historical temperature comparison in the Region.", "categorie": "The Weather"},
+    {"naam": "🌧️ Graninge Weather Station", "url": "https://weerdata-analyse-app.streamlit.app/", "beschrijving": "The weather station in Graningen.", "categorie": "The Weather"},
     {"naam": "❄️ Malmån Meteo", "url": "https://malman-meteo.streamlit.app/", "beschrijving": "The weather stations in Malmån.", "categorie": "The Weather"},
+    {"naam": "🌡️ Malmån Klimaat", "url": "https://klimaat.streamlit.app/", "beschrijving": "The klimat data of Malmån.", "categorie": "The Weather"},
     
     # Category: FINANCIAL
     {"naam": f"{FINANCIAL_EMOJIS[0]} Private Sweden Withdrawal Simulator", "url": "https://withdrawal-strategy-with-capital-gains-tax-sweden.streamlit.app/", "beschrijving": "Analysis of various withdrawal strategies for a private person in Sweden.", "categorie": "Financial"},
